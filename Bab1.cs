@@ -18,5 +18,5 @@ public class HelloWorld
     {
         string SISWA = "LIGMA"; //variabel
         Console.WriteLine(SISWA);
-    }
+    } 
 }
